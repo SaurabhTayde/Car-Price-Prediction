@@ -4,6 +4,7 @@ In this repository, built a model (using Linear Regression, RFE, VIF) to predict
 Following are the steps followed to build a model:
 
 Below are the steps which we will be basically following:
+
 Step 1: Reading and Understanding the Data
 
 Step 2: Cleaning the Data
